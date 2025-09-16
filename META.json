@@ -1,0 +1,62 @@
+{
+  "category": "logging",
+  "created_date": "2025-09-15T22:48:58.045619",
+  "default_ports": [
+    80,
+    443,
+    3100,
+    9095
+  ],
+  "dependencies": [],
+  "description": "grafana-loki is a free and open-source horizontally-scalable log aggregation system. Developed by Grafana Labs, Loki provides efficient log aggregation inspired by Prometheus, serving as an alternative to Elasticsearch/ELK or Splunk",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/logging/loki",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/logging/loki",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.045637",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "loki",
+  "repository_url": "https://github.com/howtomgr/loki",
+  "spec_version": "2.0",
+  "subcategory": "logging",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "logging",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "grafana-loki Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/logging/loki"
+}
